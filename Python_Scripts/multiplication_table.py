@@ -16,7 +16,7 @@ print("""
 def main():
     attempt = 1
     try:
-        number = int(input("Enter a number: "))
+        number = float(input("Enter a number: "))
         while (attempt <= 10):
             result = (f"{number} X {attempt} = {number*attempt}")
             attempt = attempt + 1 
