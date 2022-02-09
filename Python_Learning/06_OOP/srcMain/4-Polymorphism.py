@@ -76,7 +76,8 @@ print(explorer_one.welcome())
 Introspection,
         >_ It show the functions which this instance has access to...
 """
-print(dir(explorer_one))
+
+# print(dir(explorer_one))
 
 
 
