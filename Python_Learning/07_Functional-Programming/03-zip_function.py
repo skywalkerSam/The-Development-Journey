@@ -5,10 +5,10 @@ list_two = [10, 20, 30]
 list_three = [100, 200, 300]
 list_four = [1000, 2000, 3000]
 
-final_list_one = list(zip(list_one, list_two)) 
+final_list_one = list(zip(list_one, list_two))
 print(final_list_one)
 
-final_list_two = list(zip(list_one, list_two, list_three, list_four)) 
+final_list_two = list(zip(list_one, list_two, list_three, list_four))
 print(final_list_two)
 
 
@@ -18,4 +18,3 @@ def zip_up(item, item_two):
 
 
 print("10^3: ", zip_up(list_one, list_four))
-
