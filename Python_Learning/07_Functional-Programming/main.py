@@ -13,33 +13,28 @@
 
 # Data
 wizard = {
-        "name": "Harry Potter",
-        "power": "Mindset & The Wand",
-        "isgood": True
+    "name": "Harry Potter",
+    "power": "Mindset & The Wand",
+    "isgood": True
 }
 
 
 # Function
 def attack(power=0):
-        feedback = input("Should I increase the power ability?: ")
+    feedback = input("Should I increase the power ability?: ")
 
-        if (feedback == "y"):
-                power += 10
-        
-        elif (feedback == "Y"):
-                power += 10
+    if (feedback == "y"):
+        power += 10
 
-        else:
-                "Okay, \n"
+    elif (feedback == "Y"):
+        power += 10
 
-        out = f"Attacking by the wand with {power}% of ability..."
+    else:
+        "Okay, \n"
 
-        return out
+    out = f"Attacking by the wand with {power}% of ability..."
+
+    return out
 
 
 print(attack(75))
-
-
-
-
-
