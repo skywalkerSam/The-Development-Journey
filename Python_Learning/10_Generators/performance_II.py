@@ -6,8 +6,6 @@
 
 """
 
-from cgi import test
-from operator import ne
 from time import time
 
 
