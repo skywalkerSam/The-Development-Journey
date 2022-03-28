@@ -119,7 +119,7 @@ else:
     print("you need to learn magic!")
 
 
-
+'''
 # is v/s == ;
 bool(1)
 bool(0)     # Type conversion
@@ -132,7 +132,10 @@ print([] == 1)
 print(10 == 10.0)
 print([] == [])
 print([1, 2, 3] == [1, 2, 3])
+'''
 
+
+"""
 # Exactly same ( is )
 print(True is 1)
 print(False is 0)
@@ -152,11 +155,5 @@ print(False is False)
 # False because, each new list always stored in a new memory location
 print([] is [])
 
-
-
-
-
-
-
-
+"""
 
