@@ -1,0 +1,42 @@
+body, html { 
+    height: 100%;
+    width: 100%;
+    font-family: "ubuntu";
+    background: url(images/main_image.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+h1 {
+    margin: 30px auto;
+    color:rgb(218, 111, 40);
+}
+
+.hr-s {
+    margin: 20px auto;
+    color: rgb(218, 111, 40);
+    border: 1px solid;
+    border-radius: 10px;
+    max-width: 70px;
+    opacity: 1;
+}
+
+.btn {
+    font-weight: 300;
+    border-radius: 30px;
+}
+
+.btn:hover {
+    background-color: rgb(218, 111, 40);
+    border-color: rgb(218, 111, 40);
+}
+
+.btn-xl {
+    padding: 10px 20px;
+}
+
+
+
+

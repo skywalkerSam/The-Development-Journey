@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(Moon.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(232, 230, 227);
+  
+}
+
+
+.buffer {
+  height: 10rem;
+}
+
+
+hr {
+  background-color: whitesmoke;
+  border-width: 3px;
+  max-width: 70px;
+
+}
+
+
+.btn {
+  font-weight: 500;
+  border-radius: 300px;
+  text-transform: uppercase;
+
+}
+
+
+.btn-dark:hover {
+  border-width: 5px;
+}
+
+
+.btn-xl{
+  padding: 1rem 2rem;
+
+}
