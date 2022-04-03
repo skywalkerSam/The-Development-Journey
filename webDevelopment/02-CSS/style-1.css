@@ -1,0 +1,52 @@
+
+/*  # General CSS code...
+
+Selector{
+    Property: Value;
+}
+
+
+
+
+
+*/
+
+body{
+    background-image: url(ARTEMIS.png);
+    background-size: cover;
+}
+
+h1, h2{
+    color: #AA4139;
+    text-align: center;
+    border: 3px solid rgb(255, 176, 170);       /* rgba(255, 176, 170, 0.5{0 or 1}) */
+    cursor: pointer;
+}
+
+p{
+    color: blue;
+}
+
+/* Last value is the final value to the element */
+p{
+    color: #00ff00;
+}
+
+li{
+    list-style-type: disc;
+}
+
+
+
+
+       
+
+/*
+
+We can use CSS in the html file by direct adding styles but don't mess with the html file, keep each file seprate from each other.
+    >_ In html file, only html.
+    >_ In css file, only css.
+    >_ In java script file, only JS.
+
+*/
+

@@ -1,0 +1,10 @@
+
+Steps to run the C program;
+
+    1> Ctrl + Shift + b      =   To built the gcc
+
+    2> ./FILE-NAME         =   To run the c program FILE
+
+    3> 
+
+
