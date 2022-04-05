@@ -1,7 +1,7 @@
 
 
 """
-Author; Captain Murlidhar Singh
+Author; Sam Skywalker
 Purpose; Finding Squres & Cube
 Date; 19 october 2020
 """

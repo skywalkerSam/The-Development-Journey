@@ -44,7 +44,7 @@ voice_engine.setProperty('voice', voice_engine_voice[2].id)
 # voice_engine_rate
 voice_engine_rate = voice_engine.getProperty('rate')
 # print(voice_engine_rate)
-voice_engine.setProperty('rate', 210)
+voice_engine.setProperty('rate', 200)
 
 
 def speak(audio):   # A speak function(), which takes audio as it's parameter

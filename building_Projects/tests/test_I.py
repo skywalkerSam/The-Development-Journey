@@ -9,7 +9,7 @@ print(0.1 + 0.2)
 """
 # Why? because, floating number calculation in binary...
 
-    >_ It can compare that 0.1 + 0.2 = 0.3.
+    >_ It can compare that 0.1 + 0.2 == 0.3.
 
 """
 
@@ -23,6 +23,7 @@ def mystery():
     print(0.1 + 0.2)
 
 mystery()
+
 
 """
 # aim():
