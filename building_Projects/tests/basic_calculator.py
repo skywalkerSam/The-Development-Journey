@@ -1,9 +1,9 @@
 
 
-# Python Basic Calculator;
+# Basic Calculator;
 
 """
-Author; Captain Murlidhar Singh
+Author; Sam Skywalker
 Purpose; Python Basic Calculator
 Date; 15th October of 2020
 """

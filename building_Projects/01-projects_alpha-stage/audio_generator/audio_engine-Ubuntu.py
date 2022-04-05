@@ -52,8 +52,3 @@ filedestination = input('Enter File Destination,  (Ex:- /home/username/folder/fi
 voice_engine.save_to_file(textfile, filedestination )
 voice_engine.runAndWait()
 
-
-
-
-
-

@@ -13,7 +13,7 @@ print("""
 """)
 
 
-def main():
+def multiplication_table():
     attempt = 1
     try:
         number = float(input("Enter a number: "))
@@ -28,11 +28,8 @@ def main():
     return result
 
 
-main()
-
-
-
-
+if __name__ == "__main__":
+    multiplication_table()
 
 
 
