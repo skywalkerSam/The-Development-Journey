@@ -16,6 +16,6 @@ def fibonacci_nums(fib_index):
         b = temp + b
 
 
-for x in fibonacci_nums(21):
+for x in fibonacci_nums(2100):
     print(x)
 
